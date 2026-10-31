@@ -1,0 +1,13 @@
+**/target/
+# Maven build files
+target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Git metadata backup
+.git-backup/
